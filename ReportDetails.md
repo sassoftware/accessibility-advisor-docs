@@ -8,7 +8,15 @@ advice on resolving some of the identified issues.
 (Here we will have a brief overview of what the report contains and how to explore the
 details. Content is TBD.)
 
+### Sample report
+
+Below we have an image of a sample report from Accessibility Advisor. The rest of this section
+provides a detailed description of what is shown in that image.
+
 ![Sample report](sampleReport.png "Sample Report")
+
+(Here we provide a point-by-point description of the image, both as an aid to understanding it and
+to make this content accessible to people who cannot see the image. Full content is TBD.)
 
 ## Understanding an individual finding
 
