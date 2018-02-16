@@ -2,10 +2,6 @@
 
 This project provides user documentation for the Accessibility Advisor Chrome extension.
 
-## Table of Contents
-
-**Optional**. You might use a table of contents for lengthy and complex README files. A table of contents facilitates navigation.
-
 ## Overview
 
 Accessibility Advisor is a Chrome Extension to help developers and testers ensure that their web
@@ -46,34 +42,20 @@ Exceptions: because of the way Chrome extension permissions work there are some 
 be able to analyze. Any content displayed in an Incognito window, any URL that starts with
 chrome://, or the Developer Tools window cannot be tested.
 
-**Optional**. Instruct others about the initial tasks to get started using your project after they've installed it. This is a good place to include screenshots, [asciinema](https://asciinema.org/) recordings, or short usage videos.
-
-### Examples
-
-**Optional**. Provide additional examples on how to use the software or point to further documentation. Make your project easy to learn and use!
-
 ### Troubleshooting
 
-**Optional**. Provide workarounds and solutions to known problems. Organize troubleshooting information using subtopics, as appropriate.
+(Content here is TBD.)
 
 ## Contributing
 
-**Required**. Use the default text below if you accept contributions. If you do not accept contributions (e.g., a samples project), note that here.
-
-> We welcome your contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit contributions to this project.
+At present this project is not accepting contributions from outside the core development team. When
+this policy changes we will provide instructions here.
 
 ## License
 
-**Required**. Use the default text below. **NOTE:** Nothing different should be used here without prior approval of SAS Legal.
-
-> This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ## Additional Resources
 
-**Required**. Include any additional resources that users may need or find useful when using your software. Additional resources might include the following:
-
-- Documentation links
-- SAS Global Forum papers
-- Blog posts
-- SAS Communities
-- Other SAS Documentation (Tech Support, Education)
+More information about accessibility efforts at SAS can be found at [our Accessibility
+page](https://support.sas.com/accessibility) or by mailing us at <mailto:accessibility@sas.com>.
