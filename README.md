@@ -25,9 +25,9 @@ The extension is available in the Chrome Web Store. It is installed as follows:
 
 1. Browse to the web page that you want to analyze.
 1. Click the SAS Accessibility Advisor icon from the pinned location or from the Extensions menu.
-1. View the report in the new tab titled '''SAS Accessibility Advisor'''. The report details are
+1. View the report in the new tab titled **SAS Accessibility Advisor**. The report details are
 explained in the following "Report Details" section.
-1.  You can save the report by clicking the '''Save Report''' button at the beginning of the
+1.  You can save the report by clicking the **Save Report** button at the beginning of the
 report.
 1. To evaluate a new page, repeat all of the previous steps. The current report will update to show
 the accessibility analysis of the new page.
@@ -53,8 +53,8 @@ Each type of accessibility violation is an expandable section. The description f
 includes the applicable WCAG criteria and the count of violations of this type. When expanded, the
 individual instances are listed and they contain the following information:
 
-* A **Copy Information** button, which copies the textual details of the violation to the
-clipboard. The screenshot is not copied.
+* A **Copy Information** button, which copies the details of the violation to the
+clipboard.
 * A screenshot of the element with the violation, if the element is in the current viewport.
 Otherwise, there is a message stating "No screen shot available".
 * Problem: A high level description of the problem that was detected.
@@ -81,7 +81,7 @@ Dragon users cannot use native Dragon commands when viewing the report directly 
 (when the URL begins with chrome-extension://). This is due to limitations that Chrome imposes on
 extensions, where the Dragon Web Extension cannot operate directly on other extensions such as SAS
 Accessibility Advisor. To fully interact with the report:
-1. Save the report by clicking the '''Save Report''' button at the beginning of the report.
+1. Save the report by clicking the **Save Report** button at the beginning of the report.
 1. Open the report as a local file in Chrome.
 1. Make sure that you have granted SAS Accessibility Advisor access to local files.
 
@@ -98,7 +98,7 @@ this policy changes we will provide instructions here.
 
 This project is licensed under the [SAS® Accessibility Advisor Software End User License Agreement](https://support.sas.com/accessibility/doc/AccessibilityAdvisorForChromeEULA.pdf).
 
-## Limited Use
+## User Data Policy
 
 The use of information received from Google APIs will adhere to the
 [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program_policies/#userdata),
@@ -108,4 +108,4 @@ requirements.
 ## Additional Resources
 
 More information about accessibility efforts at SAS can be found at [our Accessibility
-page](https://support.sas.com/accessibility) or by mailing us at <mailto:accessibility@sas.com>.
+page](https://support.sas.com/accessibility) or by mailing us at [accessibility@sas.com](mailto:accessibility@sas.com).
