@@ -55,8 +55,7 @@ individual instances are listed and they contain the following information:
 
 * A **Copy Information** button, which copies the details of the violation to the
 clipboard.
-* A screenshot of the element with the violation, if the element is in the current viewport.
-Otherwise, there is a message stating "No screen shot available".
+* A screenshot of the element with the violation, if the element is in the current viewport. Otherwise there is a message stating "No screenshot is available."
 * Problem: A high level description of the problem that was detected.
 * Solution: Suggested solutions for solving the problem.
 * HTML: The HTML snippet where the problem was detected.
@@ -109,4 +108,3 @@ requirements.
 
 More information about accessibility efforts at SAS can be found at [our Accessibility
 page](https://support.sas.com/accessibility) or by mailing us at [accessibility@sas.com](mailto:accessibility@sas.com).
-
